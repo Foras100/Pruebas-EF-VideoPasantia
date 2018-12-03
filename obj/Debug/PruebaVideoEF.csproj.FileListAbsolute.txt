@@ -1,0 +1,10 @@
+c:\users\desarrollo2\documents\visual studio 2015\Projects\PruebaVideoEF\PruebaVideoEF\bin\Debug\PruebaVideoEF.exe.config
+c:\users\desarrollo2\documents\visual studio 2015\Projects\PruebaVideoEF\PruebaVideoEF\bin\Debug\PruebaVideoEF.exe
+c:\users\desarrollo2\documents\visual studio 2015\Projects\PruebaVideoEF\PruebaVideoEF\bin\Debug\PruebaVideoEF.pdb
+c:\users\desarrollo2\documents\visual studio 2015\Projects\PruebaVideoEF\PruebaVideoEF\bin\Debug\EntityFramework.dll
+c:\users\desarrollo2\documents\visual studio 2015\Projects\PruebaVideoEF\PruebaVideoEF\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\desarrollo2\documents\visual studio 2015\Projects\PruebaVideoEF\PruebaVideoEF\bin\Debug\EntityFramework.xml
+c:\users\desarrollo2\documents\visual studio 2015\Projects\PruebaVideoEF\PruebaVideoEF\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\desarrollo2\documents\visual studio 2015\Projects\PruebaVideoEF\PruebaVideoEF\obj\Debug\PruebaVideoEF.csprojResolveAssemblyReference.cache
+c:\users\desarrollo2\documents\visual studio 2015\Projects\PruebaVideoEF\PruebaVideoEF\obj\Debug\PruebaVideoEF.exe
+c:\users\desarrollo2\documents\visual studio 2015\Projects\PruebaVideoEF\PruebaVideoEF\obj\Debug\PruebaVideoEF.pdb
