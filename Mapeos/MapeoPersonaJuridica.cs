@@ -18,6 +18,9 @@ namespace PruebaVideoEF.Mapeos
             //Primary Key
             this.HasKey(p => p.CodigoPersona);
 
+            this.Property(p => p.CodigoPersona)
+                .HasColumnName("CodigoPersona");
+
             this.Property(p => p.RazonSocial)
                 .HasColumnName("RazonSocial");
         }
